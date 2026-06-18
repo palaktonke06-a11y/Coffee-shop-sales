@@ -28,45 +28,46 @@ This chart shows the monthly sales performance and identifies sales trends acros
 
 ### 🏆 Top 10 Selling Products
 <p align="center">
-  <img src="charts/02_top_products.png" width="50%">
+  <img src="Images/charts/02_top_products.png" width="50%">
 </p>
 This visualization highlights the best-selling coffee products based on total quantity sold.
 
 ### 📌 Category Wise Sales Analysis
 <p align="center">
-  <img src="charts/03_category_sales.png" width="50%">
+  <img src="Images/charts/03_category_sales.png" width="50%">
 </p>
 This chart analyzes sales performance across different product categories.
 
 ### ⏰ Hourly Sales Trend
 <p align="center">
-  <img src="charts/04_hourly_sales.png" width="50%">
+  <img src="Images/charts/04_hourly_sales.png" width="50%">
 </p>
 This visualization shows peak hours of sales to optimize store timings and staffing.
 
 ### 📦 Product Type Analysis
 <p align="center">
-  <img src="charts/05_product_type.png" width="50%">
+  <img src="Images/charts/05_product_type.png" width="50%">
 </p>
 Detailed analysis of sales based on specific product types.
 
 ### 📍 Store Location Performance
 <p align="center">
-  <img src="charts/06_store_location.png" width="50%">
+  <img src="Images/charts/06_store_location.png" width="50%">
 </p>
 Compares sales performance across different coffee shop locations.
 
 ### 📅 Daily Sales Trend
 <p align="center">
-  <img src="charts/07_daily_trend.png" width="50%">
+  <img src="Images/charts/07_daily_trend.png" width="50%">
 </p>
 Analyzes daily transaction trends to find the busiest days of the week.
 
 ### 📊 Correlation Heatmap
 <p align="center">
-  <img src="charts/08_correlation_heatmap.png" width="50%">
+  <img src="Images/charts/08_correlation_heatmap.png" width="50%">
 </p>
 Shows the correlation between different numerical variables in the sales data.
+
 
 ## 📊 Key Analysis Performed
 
