@@ -25,35 +25,27 @@ The primary objectives of this project are to:
 ## 📷 Project Preview
 
 ### ☕ Monthly Sales Trend
-![Monthly sales](charts/01_monthly_sales.png)
 This chart shows the monthly sales performance and identifies sales trends across different months.
 
 ### 🏆 Top 10 Selling Products
-![Top Products](charts/02_top_products.png)
 This visualization highlights the best-selling coffee products based on total quantity sold.
 
 ### 📌 Category Wise Sales Analysis
-![Category Sales](charts/03_category_sales.png)
 This chart analyzes sales performance across different product categories.
 
 ### ⏰ Hourly Sales Trend
-![Hourly Sales](charts/04_hourly_sales.png)
 This visualization shows peak hours of sales to optimize store timings and staffing.
 
 ### 📦 Product Type Analysis
-![Product Type](charts/05_product_type.png)
 Detailed analysis of sales based on specific product types.
 
 ### 📍 Store Location Performance
-![Store Location](charts/06_store_location.png)
 Compares sales performance across different coffee shop locations.
 
 ### 📅 Daily Sales Trend
-![Daily Sales Trend](charts/07_daily_trend.png)
 Analyzes daily transaction trends to find the busiest days of the week.
 
 ### 📊 Correlation Heatmap
-![Correlation Heatmap](charts/08_correlation_heatmap.png)
 Shows the correlation between different numerical variables in the sales data.
 
 
