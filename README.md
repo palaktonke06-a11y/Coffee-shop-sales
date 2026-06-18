@@ -1,2 +1,4 @@
-# Coffee-shop-sales
-Coffee Shop Sales Data Analysis is a Python-based project using Pandas, NumPy, Matplotlib, &amp; Seaborn to analyze sales transactions. The project explores monthly, daily, &amp; hourly sales trends, top-selling products, category performance, store-wise sales, &amp; correlations through professional coffee-themed visualizations &amp; actionable business insights.
+          COFFEE SHOP SALES 
+
+<img width="1024" height="1024" alt="ccc0c289-d24a-4690-9f06-60d0ca107bd1" src="https://github.com/user-attachments/assets/64cc17a9-2a3f-4419-ad94-ee07cbbfba68" />
+
