@@ -21,56 +21,63 @@ The primary objectives of this project are to:
 
 ## 📷 Project Preview
 
-## 📊 Project Visualizations
+## 📷 Project Preview
 
 ### ☕ Monthly Sales Trend
-
-<img src="charts/01_monthly_sales.png" width="700">
-
+<p align="center">
+  <img src="charts/01_monthly_sales.png" width="50%">
+</p>
 This chart shows the monthly sales performance and identifies sales trends across different months.
 
-
 ### 🏆 Top 10 Selling Products
-
-<img src="charts/02_top_products.png" width="700">
-
+<p align="center">
+  <img src="charts/02_top_products.png" width="50%">
+</p>
 This visualization highlights the best-selling coffee products based on total quantity sold.
 
-
 ### 📌 Category Wise Sales Analysis
-
-<img src="charts/03_category_sales.png" width="500">
-
-This chart represents the contribution of different product categories to overall sales.
-
+<p align="center">
+  <img src="charts/03_category_sales.png" width="50%">
+</p>
+This chart analyzes sales performance across different product categories.
 
 ### ⏰ Hourly Sales Trend
+<p align="center">
+  <img src="charts/04_hourly_sales.png" width="50%">
+</p>
+This visualization shows peak hours of sales to optimize store timings and staffing.
 
-<img src="charts/04_hourly_sales.png" width="700">
+### 📦 Product Type Analysis
+<p align="center">
+  <img src="charts/05_product_type.png" width="50%">
+</p>
+Detailed analysis of sales based on specific product types.
 
-This analysis identifies peak sales hours and customer purchasing patterns.
+### 📍 Store Location Performance
+<p align="center">
+  <img src="charts/06_store_location.png" width="50%">
+</p>
+Compares sales performance across different coffee shop locations.
 
+### 📅 Daily Sales Trend
+<p align="center">
+  <img src="charts/07_daily_trend.png" width="50%">
+</p>
+Analyzes daily transaction trends to find the busiest days of the week.
 
-### 🏪 Store Location Performance
+### 📊 Correlation Heatmap
+<p align="center">
+  <img src="charts/08_correlation_heatmap.png" width="50%">
+</p>
+Shows the correlation between different numerical variables in the sales data.
 
-<img src="charts/06_store_location.png" width="700">
+## 🚀 How to Run this Project (Clone)
 
-This chart compares sales performance across different store locations.
+To clone and run this project locally, use the following commands in your terminal:
 
-
-### 📈 Daily Sales Trend
-
-<img src="charts/07_daily_trend.png" width="700">
-
-This visualization tracks daily sales fluctuations and demand patterns.
-
-
-### 🔥 Correlation Heatmap
-
-<img src="charts/08_correlation_heatmap.png" width="600">
-
-This heatmap shows relationships between numerical variables in the dataset.
-
+```bash
+git clone [https://github.com/palaktonke06-a11y/Coffee-shop-sales.git](https://github.com/palaktonke06-a11y/Coffee-shop-sales.git)
+cd Coffee-shop-sales
 ## 📊 Key Analysis Performed
 
 ### 🔹 Monthly Sales Trend
