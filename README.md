@@ -59,6 +59,7 @@ The primary objectives of this project are to:
 </p>
 
 📊 Key Analysis Performed
+
 🔹 Monthly Sales Trend
 Analyzes sales performance across different months to identify seasonal patterns and business growth trends.
 
@@ -81,6 +82,7 @@ Tracks daily fluctuations in sales and customer demand.
 Examines relationships between numerical variables such as quantity sold, product pricing, and transaction activity.
 
 📊 Key Insights
+
 Sales Insights
 
 * Certain months generate significantly higher sales volumes.
@@ -134,28 +136,46 @@ The dataset contains:
 This project helps:
 
 ✅ Identify top-performing products
+
 ✅ Understand customer purchasing behavior
+
 ✅ Analyze sales trends over time
+
 ✅ Compare store performance
+
 ✅ Support inventory and sales planning
+
 ✅ Generate actionable business insights
+
 
 📁 Project Structure
 
 Coffee-Shop-Sales-Analysis/
 
 ├── charts/
+
 │ ├── 01_monthly_sales.png
+
 │ ├── 02_top_products.png
+
 │ ├── 03_category_sales.png
+
 │ ├── 04_hourly_sales.png
+
 │ ├── 05_product_type.png
+
 │ ├── 06_store_location.png
+
 │ ├── 07_daily_trend.png
+
 │ └── 08_correlation_heatmap.png
+
 ├── Coffee_Shop_Sales_Analysis.ipynb
+
 ├── Coffee Shop Sales.xlsx
+
 └── README.md
+
 
 🎓 Skills Demonstrated
 
