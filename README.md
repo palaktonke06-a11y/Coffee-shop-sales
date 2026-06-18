@@ -19,45 +19,44 @@ The primary objectives of this project are to:
 
 
 📷 Project Preview
-
 1. Monthly Sales Trend
 <p align="center">
-  <img src="1_monthly_sales_trend.png" alt="Monthly Sales Trend" width="50%">
+  <img src="charts/01_monthly_sales.png" alt="Monthly Sales Trend" width="50%">
 </p>
 
 2. Top Selling Products
 <p align="center">
-  <img src="2_top_selling_products.png" alt="Top Selling Products" width="50%">
+  <img src="charts/02_top_products.png" alt="Top Selling Products" width="50%">
 </p>
 
 3. Category Wise Sales
 <p align="center">
-  <img src="3_category_wise_sales.png" alt="Category Wise Sales" width="50%">
+  <img src="charts/03_category_sales.png" alt="Category Wise Sales" width="50%">
 </p>
 
 4. Hourly Sales Trend
 <p align="center">
-  <img src="4_hourly_sales_trend.png" alt="Hourly Sales Trend" width="50%">
+  <img src="charts/04_hourly_sales.png" alt="Hourly Sales Trend" width="50%">
 </p>
 
-5. Store Location Performance
+5. Product Type Analysis
 <p align="center">
-  <img src="5_store_location_performance.png" alt="Store Performance Analysis" width="50%">
+  <img src="charts/05_product_type.png" alt="Product Type Analysis" width="50%">
 </p>
 
-6. Daily Sales Trend
+6. Store Location Performance
 <p align="center">
-  <img src="6_daily_sales_trend.png" alt="Daily Sales Trend" width="50%">
+  <img src="charts/06_store_location.png" alt="Store Performance Analysis" width="50%">
 </p>
 
-7. Correlation Heatmap
+7. Daily Sales Trend
 <p align="center">
-  <img src="7_correlation_heatmap.png" alt="Correlation Heatmap" width="50%">
+  <img src="charts/07_daily_trend.png" alt="Daily Sales Trend" width="50%">
 </p>
 
-8. Top 10 Selling Products
+8. Correlation Heatmap
 <p align="center">
-  <img src="8_top_selling_products.png" alt="Top 10 Selling Products" width="50%">
+  <img src="charts/08_correlation_heatmap.png" alt="Correlation Heatmap" width="50%">
 </p>
 
 
@@ -84,6 +83,7 @@ Tracks daily fluctuations in sales and customer demand.
 
 🔹 Correlation Heatmap
 Examines relationships between numerical variables such as quantity sold, product pricing, and transaction activity.
+
 
 
 
