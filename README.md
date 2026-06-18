@@ -70,7 +70,6 @@ Analyzes daily transaction trends to find the busiest days of the week.
 </p>
 Shows the correlation between different numerical variables in the sales data.
 
-
 ## 📊 Key Analysis Performed
 
 ### 🔹 Monthly Sales Trend
