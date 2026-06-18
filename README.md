@@ -1,13 +1,15 @@
-☕ Coffee Shop Sales Data Analysis
+# ☕ Coffee Shop Sales Data Analysis
 
 Python • Pandas • NumPy • Matplotlib • Seaborn • Data Analytics
 
-📌 Project Overview
+## 📌 Project Overview
+
 The Coffee Shop Sales Data Analysis project is an end-to-end Exploratory Data Analysis (EDA) solution developed using Python. The project analyzes transactional coffee shop sales data to uncover business insights related to product performance, sales trends, customer purchasing behavior, and store performance.
+
 Using data analysis and visualization techniques, raw sales data is transformed into meaningful insights that support data-driven business decisions.
 
+## 🎯 Project Objectives
 
-🎯 Project Objectives
 The primary objectives of this project are to:
 
 * Analyze coffee shop sales performance.
@@ -17,97 +19,107 @@ The primary objectives of this project are to:
 * Discover relationships between numerical variables.
 * Create professional business visualizations.
 
+## 📷 Project Preview
 
-📷 Project Preview
-1. Monthly Sales Trend
-<p align="center">
-  <img src="charts/01_monthly_sales.png" alt="Monthly Sales Trend" width="50%">
-</p>
+## 📊 Project Visualizations
 
-2. Top Selling Products
-<p align="center">
-  <img src="charts/02_top_products.png" alt="Top Selling Products" width="50%">
-</p>
+### ☕ Monthly Sales Trend
 
-3. Category Wise Sales
-<p align="center">
-  <img src="charts/03_category_sales.png" alt="Category Wise Sales" width="50%">
-</p>
+<img src="charts/01_monthly_sales.png" width="700">
 
-4. Hourly Sales Trend
-<p align="center">
-  <img src="charts/04_hourly_sales.png" alt="Hourly Sales Trend" width="50%">
-</p>
-
-5. Product Type Analysis
-<p align="center">
-  <img src="charts/05_product_type.png" alt="Product Type Analysis" width="50%">
-</p>
-
-6. Store Location Performance
-<p align="center">
-  <img src="charts/06_store_location.png" alt="Store Performance Analysis" width="50%">
-</p>
-
-7. Daily Sales Trend
-<p align="center">
-  <img src="charts/07_daily_trend.png" alt="Daily Sales Trend" width="50%">
-</p>
-
-8. Correlation Heatmap
-<p align="center">
-  <img src="charts/08_correlation_heatmap.png" alt="Correlation Heatmap" width="50%">
-</p>
+This chart shows the monthly sales performance and identifies sales trends across different months.
 
 
+### 🏆 Top 10 Selling Products
 
-📊 Key Analysis Performed
+<img src="charts/02_top_products.png" width="700">
 
-🔹 Monthly Sales Trend
+This visualization highlights the best-selling coffee products based on total quantity sold.
+
+
+### 📌 Category Wise Sales Analysis
+
+<img src="charts/03_category_sales.png" width="500">
+
+This chart represents the contribution of different product categories to overall sales.
+
+
+### ⏰ Hourly Sales Trend
+
+<img src="charts/04_hourly_sales.png" width="700">
+
+This analysis identifies peak sales hours and customer purchasing patterns.
+
+
+### 🏪 Store Location Performance
+
+<img src="charts/06_store_location.png" width="700">
+
+This chart compares sales performance across different store locations.
+
+
+### 📈 Daily Sales Trend
+
+<img src="charts/07_daily_trend.png" width="700">
+
+This visualization tracks daily sales fluctuations and demand patterns.
+
+
+### 🔥 Correlation Heatmap
+
+<img src="charts/08_correlation_heatmap.png" width="600">
+
+This heatmap shows relationships between numerical variables in the dataset.
+
+## 📊 Key Analysis Performed
+
+### 🔹 Monthly Sales Trend
+
 Analyzes sales performance across different months to identify seasonal patterns and business growth trends.
 
-🔹 Top 10 Selling Products
+### 🔹 Top 10 Selling Products
+
 Identifies the highest-selling products based on transaction quantity.
 
-🔹 Category Wise Sales Distribution
+### 🔹 Category Wise Sales Distribution
+
 Shows the contribution of each product category to overall sales.
 
-🔹 Hourly Sales Trend
+### 🔹 Hourly Sales Trend
+
 Highlights peak business hours and customer purchasing patterns throughout the day.
 
-🔹 Store Location Performance
+### 🔹 Store Location Performance
+
 Compares sales performance across different coffee shop locations.
 
-🔹 Daily Sales Trend
+### 🔹 Daily Sales Trend
+
 Tracks daily fluctuations in sales and customer demand.
 
-🔹 Correlation Heatmap
+### 🔹 Correlation Heatmap
+
 Examines relationships between numerical variables such as quantity sold, product pricing, and transaction activity.
 
+## 📊 Key Insights
 
-
-
-📊 Key Insights
-
-Sales Insights
+### Sales Insights
 
 * Certain months generate significantly higher sales volumes.
 * Peak sales occur during specific business hours.
 * Daily sales patterns reveal customer demand fluctuations.
 
-Product Insights
+### Product Insights
 
 * A small group of products contributes heavily to total sales.
 * Product categories perform differently across locations.
 
-Business Insights
+### Business Insights
 
 * Store performance varies by location.
 * Product demand trends can support inventory planning and business strategy.
 
-
-
-📂 Dataset Information
+## 📂 Dataset Information
 
 The dataset contains:
 
@@ -122,28 +134,24 @@ The dataset contains:
 * Product ID
 * Unit Price
 
+## 🛠️ Tools & Technologies Used
 
-
-🛠️ Tools & Technologies Used
-
- Data Analysis
+### Data Analysis
 
 * Python
 * Pandas
 * NumPy
 
- Data Visualization
+### Data Visualization
 
 * Matplotlib
 * Seaborn
 
- Development Environment
+### Development Environment
 
 * Jupyter Notebook
 
-
-
-📈 Business Value
+## 📈 Business Value
 
 This project helps:
 
@@ -159,9 +167,7 @@ This project helps:
 
 ✅ Generate actionable business insights
 
-
-
-📁 Project Structure
+## 📁 Project Structure
 
 Coffee-Shop-Sales-Analysis/
 
@@ -189,9 +195,7 @@ Coffee-Shop-Sales-Analysis/
 
 └── README.md
 
-
-
-🎓 Skills Demonstrated
+## 🎓 Skills Demonstrated
 
 * Data Cleaning
 * Data Transformation
@@ -202,8 +206,7 @@ Coffee-Shop-Sales-Analysis/
 * Data Storytelling
 * Python Programming
 
-
-📌 Tags
+## 📌 Tags
 
 Python • Pandas • NumPy • Matplotlib • Seaborn • Data Analysis • EDA • Data Visualization • Business Analytics • Coffee Shop Sales • Jupyter Notebook
 
