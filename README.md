@@ -1,4 +1,3 @@
-          COFFEE SHOP SALES 
+<img width="1024" height="1024" alt="cf6a3c78-15c0-4b82-a3e0-38a4933c3efc" src="https://github.com/user-attachments/assets/ab35aa89-4b14-4bbd-8357-99b5cb447324" />
 
-<img width="1024" height="1024" alt="ccc0c289-d24a-4690-9f06-60d0ca107bd1" src="https://github.com/user-attachments/assets/64cc17a9-2a3f-4419-ad94-ee07cbbfba68" />
 
