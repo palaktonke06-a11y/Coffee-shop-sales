@@ -23,7 +23,9 @@ The primary objectives of this project are to:
 ## 📷 Project Preview
 
 ### ☕ Monthly Sales Trend
-![Dashboard](./Images/charts/01_monthly_sales.png.png)
+<p align="center">
+  <img src="Images/charts/01_monthly_sales.png.png" width="50%">
+</p>
 This chart shows the monthly sales performance and identifies sales trends across different months.
 
 ### 🏆 Top 10 Selling Products
@@ -67,6 +69,12 @@ Analyzes daily transaction trends to find the busiest days of the week.
   <img src="Images/charts/08_correlation_heatmap.png" width="50%">
 </p>
 Shows the correlation between different numerical variables in the sales data.
+
+### 📦 Product Type Analysis
+<p align="center">
+  <img src="Images/charts/05_product_type.png" width="50%">
+</p>
+Detailed analysis of sales based on specific product types.
 
 
 ## 📊 Key Analysis Performed
