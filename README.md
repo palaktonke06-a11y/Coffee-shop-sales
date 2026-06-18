@@ -19,7 +19,6 @@ The primary objectives of this project are to:
 * Discover relationships between numerical variables.
 * Create professional business visualizations.
 
-## 📷 Project Preview
 
 ## 📷 Project Preview
 
@@ -71,13 +70,7 @@ Analyzes daily transaction trends to find the busiest days of the week.
 </p>
 Shows the correlation between different numerical variables in the sales data.
 
-## 🚀 How to Run this Project (Clone)
 
-To clone and run this project locally, use the following commands in your terminal:
-
-```bash
-git clone [https://github.com/palaktonke06-a11y/Coffee-shop-sales.git](https://github.com/palaktonke06-a11y/Coffee-shop-sales.git)
-cd Coffee-shop-sales
 ## 📊 Key Analysis Performed
 
 ### 🔹 Monthly Sales Trend
