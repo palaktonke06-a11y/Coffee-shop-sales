@@ -19,9 +19,6 @@ The primary objectives of this project are to:
 * Discover relationships between numerical variables.
 * Create professional business visualizations.
 
-
-## 📷 Project Preview
-
 ## 📷 Project Preview
 
 ### ☕ Monthly Sales Trend
