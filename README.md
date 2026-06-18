@@ -6,6 +6,7 @@ Python • Pandas • NumPy • Matplotlib • Seaborn • Data Analytics
 The Coffee Shop Sales Data Analysis project is an end-to-end Exploratory Data Analysis (EDA) solution developed using Python. The project analyzes transactional coffee shop sales data to uncover business insights related to product performance, sales trends, customer purchasing behavior, and store performance.
 Using data analysis and visualization techniques, raw sales data is transformed into meaningful insights that support data-driven business decisions.
 
+
 🎯 Project Objectives
 The primary objectives of this project are to:
 
@@ -60,6 +61,7 @@ The primary objectives of this project are to:
 </p>
 
 
+
 📊 Key Analysis Performed
 
 🔹 Monthly Sales Trend
@@ -84,6 +86,7 @@ Tracks daily fluctuations in sales and customer demand.
 Examines relationships between numerical variables such as quantity sold, product pricing, and transaction activity.
 
 
+
 📊 Key Insights
 
 Sales Insights
@@ -103,6 +106,7 @@ Business Insights
 * Product demand trends can support inventory planning and business strategy.
 
 
+
 📂 Dataset Information
 
 The dataset contains:
@@ -117,6 +121,7 @@ The dataset contains:
 * Product Detail
 * Product ID
 * Unit Price
+
 
 
 🛠️ Tools & Technologies Used
@@ -137,6 +142,7 @@ The dataset contains:
 * Jupyter Notebook
 
 
+
 📈 Business Value
 
 This project helps:
@@ -152,6 +158,7 @@ This project helps:
 ✅ Support inventory and sales planning
 
 ✅ Generate actionable business insights
+
 
 
 📁 Project Structure
