@@ -16,6 +16,7 @@ The primary objectives of this project are to:
 * Discover relationships between numerical variables.
 * Create professional business visualizations.
 
+
 📷 Project Preview
 
 1. Monthly Sales Trend
@@ -58,6 +59,7 @@ The primary objectives of this project are to:
   <img src="8_top_selling_products.png" alt="Top 10 Selling Products" width="50%">
 </p>
 
+
 📊 Key Analysis Performed
 
 🔹 Monthly Sales Trend
@@ -81,6 +83,7 @@ Tracks daily fluctuations in sales and customer demand.
 🔹 Correlation Heatmap
 Examines relationships between numerical variables such as quantity sold, product pricing, and transaction activity.
 
+
 📊 Key Insights
 
 Sales Insights
@@ -99,6 +102,7 @@ Business Insights
 * Store performance varies by location.
 * Product demand trends can support inventory planning and business strategy.
 
+
 📂 Dataset Information
 
 The dataset contains:
@@ -113,6 +117,7 @@ The dataset contains:
 * Product Detail
 * Product ID
 * Unit Price
+
 
 🛠️ Tools & Technologies Used
 
@@ -130,6 +135,7 @@ The dataset contains:
  Development Environment
 
 * Jupyter Notebook
+
 
 📈 Business Value
 
@@ -177,6 +183,7 @@ Coffee-Shop-Sales-Analysis/
 └── README.md
 
 
+
 🎓 Skills Demonstrated
 
 * Data Cleaning
@@ -188,9 +195,11 @@ Coffee-Shop-Sales-Analysis/
 * Data Storytelling
 * Python Programming
 
+
 📌 Tags
 
 Python • Pandas • NumPy • Matplotlib • Seaborn • Data Analysis • EDA • Data Visualization • Business Analytics • Coffee Shop Sales • Jupyter Notebook
+
 
 🚀 How to Run this Project (Clone)
 
