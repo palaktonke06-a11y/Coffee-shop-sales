@@ -24,7 +24,7 @@ The primary objectives of this project are to:
 
 ### ☕ Monthly Sales Trend
 
-![Chart](Images/charts/01_monthly_sales.png.png.png)  
+![Monthly sales](Images/charts/01_monthly_sales.png)  
 This chart shows the monthly sales performance and identifies sales trends across different months.
 
 ### 🏆 Top 10 Selling Products
